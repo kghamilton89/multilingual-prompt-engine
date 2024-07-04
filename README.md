@@ -1,12 +1,5 @@
 # Multilingual Prompt Engine 🤗
 
-## Content
-
-- [Multilingual Prompt Engine 🤗](#multilingual-prompt-engine-)
-  - [Content](#content)
-  - [Scope](#scope)
-  - [Usage](#usage)
-
 ## Scope
 
 Multilingual Prompt Engine (MPE) is a community-driven continuation of the [Multilingual Prompt Evaluation Project](https://github.com/huggingface/data-is-better-together/blob/main/community-efforts/prompt_translation/README.md) (MPEP) initiative of the [Data is Better Together](https://huggingface.co/DIBT) (DIBT) project.
