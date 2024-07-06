@@ -1,5 +1,7 @@
 # Multilingual Prompt Engine 🤗
 
+> Please note that this project has been permanenetly moved to the [DIBT repo](https://github.com/huggingface/data-is-better-together) and is no longer maintained at this location.
+
 ## Scope
 
 Multilingual Prompt Engine (MPE) is a community-driven continuation of the [Multilingual Prompt Evaluation Project](https://github.com/huggingface/data-is-better-together/blob/main/community-efforts/prompt_translation/README.md) (MPEP) initiative of the [Data is Better Together](https://huggingface.co/DIBT) (DIBT) project.
